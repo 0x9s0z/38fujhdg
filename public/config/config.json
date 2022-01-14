@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x5224c7d5e7e189ad5bcced96945dc490b84def66",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x5224c7d5e7e189ad5bcced96945dc490b84def66",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "RunForrest NFT",
+  "SYMBOL": "CDNS",
+  "MAX_SUPPLY": 77,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 3000000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/cool-doge-nfts",
+  "SHOW_BACKGROUND": false
+}
